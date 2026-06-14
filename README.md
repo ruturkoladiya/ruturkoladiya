@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8a622&height=200&section=header&text=Rutu%20Koladiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Node.js%20%7C%20AI%20Workflows&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8a622&height=200&section=header&text=Rutu%20Koladiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%7C%20AI%20Workflows&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ I write code that is meant to be maintained, not just submitted.
 ## Featured Projects
 
 <details>
-<summary><b>BakeFlow — Smart Order &amp; Inquiry Manager for Bakers</b></summary>
+<summary><b>BakeFlow: Smart Order &amp; Inquiry Manager for Bakers</b></summary>
 
 <br/>
 
@@ -121,7 +121,7 @@ Most tools built for small food businesses are either too simple (WhatsApp) or t
 <br/>
 
 <details>
-<summary><b>DreamSpace — Luxury Real Estate Landing Page</b></summary>
+<summary><b>DreamSpace: Luxury Real Estate Landing Page</b></summary>
 
 <br/>
 
@@ -143,7 +143,7 @@ The challenge here was balancing visual richness with performance. Animation lib
 <br/>
 
 <details>
-<summary><b>BrewStory — Animated Brewery Brand Experience</b></summary>
+<summary><b>BrewStory: Animated Brewery Brand Experience</b></summary>
 
 <br/>
 
@@ -157,14 +157,14 @@ A storytelling-driven brewery landing page where vintage brand identity meets in
 | **Highlight** | GSAP timeline choreography · Scroll-synced animation |
 | **Repository** | [brewstory-landing-gsap](https://github.com/ruturkoladiya/brewstory-landing-gsap) |
 
-GSAP timelines were coordinated with scroll position using ScrollTrigger, creating the effect of a narrative unfolding as the user moves down the page. The constraint was keeping animation purposeful — every motion had to serve the story, not just exist.
+GSAP timelines were coordinated with scroll position using ScrollTrigger, creating the effect of a narrative unfolding as the user moves down the page. The constraint was keeping animation purposeful, every motion had to serve the story, not just exist.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>RTK Query CRUD — Open Source Technical Reference</b></summary>
+<summary><b>RTK Query CRUD: Open Source Technical Reference</b></summary>
 
 <br/>
 
@@ -248,7 +248,7 @@ current_focus:
   learning:
     - Backend architecture with Node.js and Express
     - PostgreSQL schema design and query optimisation
-    - System design fundamentals — scalability, caching, load balancing
+    - System design fundamentals, scalability, caching, load balancing
     - TypeScript at depth across full stack
 
   building:
