@@ -213,7 +213,7 @@ RTK Query dramatically reduces boilerplate for data-fetching logic. This repo do
 
 ---
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ruturkoladiya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
@@ -222,6 +222,7 @@ RTK Query dramatically reduces boilerplate for data-fetching logic. This repo do
 > Trophies appear once your GitHub account accumulates enough activity across commits, PRs, stars, and followers. They will populate automatically as your profile grows.
 
 ---
+-->
 
 ## Contribution Activity
 
@@ -231,6 +232,7 @@ RTK Query dramatically reduces boilerplate for data-fetching logic. This repo do
 
 ---
 
+<!--
 ## Contribution Snake
 
 <p align="center">
@@ -240,6 +242,7 @@ RTK Query dramatically reduces boilerplate for data-fetching logic. This repo do
 > To activate the snake animation, add a GitHub Actions workflow to your profile repo (`ruturkoladiya/ruturkoladiya`). Setup guide: [Platane/snk](https://github.com/Platane/snk). The animation will render automatically once the workflow runs for the first time.
 
 ---
+-->
 
 ## Current Focus
 
